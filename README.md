@@ -13,7 +13,7 @@ sudo apt upgrade
 ``` 
 sudo reboot
 ```
-> ２、ufw インストール
+> [２、ufw インストール](https://github.com/kazu71/Setting_up_a_simple_Apache2_server_on_UbuntuServer/tree/4d16b277f7f5aebafeaccc5313ca01388b6b3295/2)
 #### ポート開放の設定管理システムのインストール及び起動を以下の記載通りの順番で行います。
 
 ```
@@ -29,7 +29,7 @@ sudo systemctl start ufw
 sudo ufw allow 80
 ```
 
-> ３，Apache2 インストール
+> [３，Apache2 インストール](https://github.com/kazu71/Setting_up_a_simple_Apache2_server_on_UbuntuServer/tree/4d16b277f7f5aebafeaccc5313ca01388b6b3295/3)
 #### apache2のインストール及び起動は以下の記載通りの順番で行います。
 ```
 sudo apt install apache2

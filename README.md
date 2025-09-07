@@ -13,7 +13,7 @@ sudo apt upgrade
 ``` 
 sudo reboot
 ```
-> [２、ufw インストール](https://github.com/kazu71/Setting_up_a_simple_Apache2_server_on_UbuntuServer/tree/4d16b277f7f5aebafeaccc5313ca01388b6b3295/2)
+> [２、ufw インストール](https://github.com/kazu71/Ubuntu_System_Administration/tree/4b5e9cec90f7cb2ace2f518c08a5ca8412f95cf3/UFW_System)
 #### ポート開放の設定管理システムのインストール及び起動を以下の記載通りの順番で行います。
 
 ```

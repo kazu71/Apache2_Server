@@ -1,5 +1,5 @@
 # Ubuntu Server で簡単な Apache2　サーバを立ててみる
-この記事では、Apache2 webサーバをUbuntu Server OSで立ち上げる手順をシンプルに説明している記事です。より細かな説明は今後記載予定ですのでしばらくお待ちください。
+この記事では、Apache2 webサーバをUbuntu Server OSで立ち上げる手順をシンプルに説明している記事です。
 
 > [１，Ubuntu Serverを更新する](https://github.com/kazu71/Ubuntu_System_Administration/blob/4b5e9cec90f7cb2ace2f518c08a5ca8412f95cf3/update_system/README.md)
 #### 更新は以下の記載通りの順番で行います。
@@ -29,7 +29,7 @@ sudo systemctl start ufw
 sudo ufw allow 80
 ```
 
-> [３，Apache2 インストール]()
+> ３，Apache2 インストール
 #### apache2のインストール及び起動は以下の記載通りの順番で行います。
 ```
 sudo apt install apache2
